@@ -1,6 +1,5 @@
 import { useEffect, useState } from 'react';
 import axios from 'axios';
-import MovieCard from './components/MovieCard';
 import MoviePage from './pages/MoviePage';
 import './App.scss';
 

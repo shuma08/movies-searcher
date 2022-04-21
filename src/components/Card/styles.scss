@@ -2,10 +2,16 @@
     border: 1px solid;
     margin-bottom: 45px;
     border-radius: 20px;
-    img {
-        border-top-left-radius: 20px;
-        border-top-right-radius: 20px
 
+    .img-container {
+        display: flex;
+        flex-direction: column;
+        
+        img {
+            border-top-left-radius: 20px;
+            border-top-right-radius: 20px
+    
+        }
     }
 }
 .title-container {
@@ -16,6 +22,9 @@
     padding: 20px;
     box-sizing: border-box;
     align-items: center;
+    background-color:#f1f3f4;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
 
     .title {
         font-size: 20px;
