@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.6f432ba9.css","mappings":"AAAA,KAEI,sBADA,UACA,CACA,OAEI,WADA,iBACA","sources":["App.scss"],"sourcesContent":[".App {\r\n    width: 100%;\r\n    background-color: peru;\r\n    p {\r\n        text-align: center;\r\n        color: white;\r\n    }\r\n}"],"names":[],"sourceRoot":""}
